@@ -5,3 +5,10 @@ function jaswanth(){
 }
 
 jaswanth()
+
+const naveen=()=>{
+    return "naveen sannena"
+}
+
+naveen()
+
